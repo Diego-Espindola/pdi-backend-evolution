@@ -1,9 +1,9 @@
-# 🚀 PDI Backend & Arquitetura (2026/2027)
+# PDI Backend & Arquitetura (2026/2027)
 
 Repositório dedicado aos meus estudos práticos de Backend e Arquitetura de Software.
 **Regra do jogo:** 35 minutos por dia, código escrito 100% na mão (*to learn*, sem IA) e foco em fundamentos.
 
-## 🗺️ Roadmap Evolutivo
+## Roadmap Evolutivo
 
 - [ ] **Ciclo 1 (Nov–Dez/26):** Redes & WebSockets na mão (`node:http` + `ws`)
 - [ ] **Ciclo 2 (Jan–Fev/27):** SQL & Performance (`EXPLAIN ANALYZE`, Índices, ACID)
@@ -14,7 +14,7 @@ Repositório dedicado aos meus estudos práticos de Backend e Arquitetura de Sof
 
 ---
 
-## 📝 Log de Evolução (Checkpoints Semanais)
+## Log de Evolução (Checkpoints Semanais)
 
 ### Ciclo 1: Redes & WebSockets
 * **Semana 1:** [Data] - Entendendo o ciclo HTTP e subindo servidor nativo com `node:http`.
